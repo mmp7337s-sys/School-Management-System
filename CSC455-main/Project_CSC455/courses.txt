@@ -1,0 +1,9 @@
+Course 1
+ID: csc131
+Course Number: 1919191
+Description: masoin
+Max Seats: 20
+Currently Enrolled: 10
+Remaining: 10
+Instructor: mason
+
